@@ -1,0 +1,12 @@
+[package]
+
+name = "shortest-path"
+version = "0.0.1"
+authors = [ "Timo Olkkonen <timo@timoolkkonen.fi>" ]
+
+[dependencies]
+rustc-serialize = "0.2"
+
+[[bin]]
+
+name = "shortest-path"
